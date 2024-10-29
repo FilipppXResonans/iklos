@@ -1,9 +1,4 @@
-iklos 2024
-
-Made by Filippp
+SlideKlos
 
 
-
-Under construction
-
-Demoparty system that is easy to configure.
+Host: host.iklos
