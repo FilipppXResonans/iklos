@@ -5,3 +5,5 @@ Made by Filippp
 
 
 Under construction
+
+Demoparty system that is easy to configure.
